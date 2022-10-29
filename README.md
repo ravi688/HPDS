@@ -1,2 +1,3 @@
-# TemplateRepository
-This repository contains template for a project in C language
+# HPDS
+
+HPDS is a data structure library that contains all my data structures used across my projects.
