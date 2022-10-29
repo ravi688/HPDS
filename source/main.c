@@ -1,10 +1,10 @@
 
-#include <template_repo/debug.h>
-#include <template_repo/assert.h>
+#include <hpds/debug.h>
+#include <hpds/assert.h>
 
 int main(int argc, char** argv)
 {
-	debug_log_info("Template Repository!");
+	debug_log_info("HPDS!");
 
 	return 0;
 }
